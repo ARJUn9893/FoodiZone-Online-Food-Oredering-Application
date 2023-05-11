@@ -1,6 +1,6 @@
 # FoodiZone 
 # Created by:- Arjun Patel
-# Intership Project
+# Internship Project
 
 The FoodiZone (Food Ordering Portal) is a web application built using the MERN stack that allows:
 
